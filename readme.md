@@ -21,10 +21,6 @@
 [instagram]: https://www.instagram.com/cagatayyd/
 [<img height="40" width="40" src="https://unpkg.com/simple-icons@v6/icons/instagram.svg" />][instagram] 
 
-[<img height="50" width="50" src="https://patika-prod.s3.eu-central-1.amazonaws.com/staticFiles/patikaLogo.png" alt="Patika Dev">][patika.dev] 
-
-[patika.dev]: https://app.patika.dev/cagatayyd
-
 [twitter]: https://twitter.com/cagataayydd
 [<img height="40" width="40" src="https://unpkg.com/simple-icons@v6/icons/twitter.svg" />][twitter]
 
