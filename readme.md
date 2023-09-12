@@ -17,8 +17,8 @@
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" style="max-width: 100%;"></a><a href="https://www.w3.org/TR/CSS/#css" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" style="max-width: 100%;"></a><a href="https://getbootstrap.com/" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" style="max-width: 100%;"></a>
 <a href="https://www.javascript.com"><img width="36" height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a>
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img width="36" height="36" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*ymVNbsdd7KxHXHC4-LP7kw.png"></a>
-<a href="https://learn.microsoft.com/en-us/dotnet/"><img width="36" height="36" src="https://mennankose.com/content/images/2019/08/asp-net-core-logo-1.png"></a>
-<img width="36" height="36" src="https://i0.wp.com/learn.onemonth.com/wp-content/uploads/2019/07/image2-1.png?fit=600%2C315&ssl=1">
+<a href="https://learn.microsoft.com/en-us/dotnet/"><img width="50" height="36" src="https://mennankose.com/content/images/2019/08/asp-net-core-logo-1.png"></a>
+<img width="50" height="36" src="https://i0.wp.com/learn.onemonth.com/wp-content/uploads/2019/07/image2-1.png?fit=600%2C315&ssl=1">
 
 ## Social Media:
 [instagram]: https://www.instagram.com/cagatayyd/
