@@ -26,3 +26,6 @@
 [twitter]: https://twitter.com/cagataayydd
 [<img height="40" width="40" src="https://unpkg.com/simple-icons@v6/icons/twitter.svg" />][twitter]
 
+[linkedin]: https://www.linkedin.com/in/cagataydemirbag/
+[<img height="40" width="40" src="https://unpkg.com/simple-icons@6.23.0/icons/linkedin.svg" />][linkedin]
+
